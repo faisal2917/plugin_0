@@ -1,7 +1,8 @@
 # torch_plugin
 
 A new Flutter plugin project.
-
+Now you can control the torch with the help of this plugin.
+this plugins func take few time because it is a future function.
 ## Getting Started
 
 This project is a starting point for a Flutter

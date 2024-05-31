@@ -1,7 +1,7 @@
 name: torch_plugin
 description: "This plugin have the torch and volume control for android."
-version: 0.0.1
-homepage:
+version: 0.0.2
+homepage: https://github.com/faisal2917/plugin_0.git
 
 environment:
   sdk: '>=3.3.4 <4.0.0'
